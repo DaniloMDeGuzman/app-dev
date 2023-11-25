@@ -2,9 +2,9 @@
  My first repository
 
 **Karakai Jouzu no takagi san** 
-- **Japanese: からかい上手の高木さん**
+- **Japanese:[からかい上手の高木さん]([https://www.example.com](https://myanimelist.net/anime/35860/Karakai_Jouzu_no_Takagi-san/)https://myanimelist.net/anime/35860/Karakai_Jouzu_no_Takagi-san/)**
 - *3 seasons with movie*
--  [からかい上手の高木さん]([https://www.example.com](https://myanimelist.net/anime/35860/Karakai_Jouzu_no_Takagi-san/)https://myanimelist.net/anime/35860/Karakai_Jouzu_no_Takagi-san/)
+ 
 1. MC - VA - Takahashi, Rie and Kaji, Yuuki
 2. OP - Iwanai kedo ne. (言わないけどね.)by Yuiko Oohara
 3. Producers: TMS Entertainment, Asatsu DK, Asmik Ace, TOHO animation, JR East Marketing & Communications
