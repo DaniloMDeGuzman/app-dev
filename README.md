@@ -1,8 +1,8 @@
 # app-dev
  My first repository
 
-**Karakai Jouzu no takagi san**
--**Japanese: からかい上手の高木さん**
+**Karakai Jouzu no takagi san** 
+- **Japanese: からかい上手の高木さん**
 - *3 seasons with movie*
 1. MC VA Takahashi, Rie and Kaji, Yuuki
 2. OP - Iwanai kedo ne. (言わないけどね.)by Yuiko Oohara
